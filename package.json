@@ -1,0 +1,20 @@
+{
+  "name": "nodejecell",
+  "version": "1.0.0",
+  "description": "createcellapp",
+  "main": "maincellapp",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orgs/CIT262-Team9/projects?query=is%3Aopen"
+  },
+  "keywords": [
+    "new",
+    "cell",
+    "application"
+  ],
+  "author": "Frank Asensio",
+  "license": "ISC"
+}
