@@ -1,5 +1,6 @@
 let teamNames = [
     'Erick',
-    'Skyler'
-    'Frank'
+    'Skyler',
+    'Frank',
+    'Angelica'
 ];
