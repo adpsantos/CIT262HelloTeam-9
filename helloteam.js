@@ -4,3 +4,7 @@ let teamNames = [
     'Frank',
     'Angelica'
 ];
+
+teamNames.forEach(function(name) {
+    console.log("Hello", name);
+})
