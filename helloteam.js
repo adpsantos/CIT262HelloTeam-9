@@ -2,7 +2,8 @@ let teamNames = [
     'Erick',
     'Skyler',
     'Frank',
-    'Angelica'
+    'Angelica',
+    'Mike'
 ];
 
 teamNames.forEach(function(name) {
